@@ -1,4 +1,4 @@
-﻿Console.Clear();
+﻿/*Console.Clear();
 // Console.SetCursorPosition(10, 4);
 // Console.WriteLine("+");
 
@@ -38,4 +38,32 @@ while (count < 10000)
     Console.SetCursorPosition(x, y);
     Console.WriteLine("+");
     count++;
+}*/
+/*
+Задача №5. Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутке от -N до N.
+4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4" 
+2 -> " -2, -1, 0, 1, 2"
+
+Задача №7. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
+	456 -> 6
+	782 -> 2
+	918 -> 8
+*/
+/*
+Console.Write("Введите натуральное число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+int index = -num;
+while(index <= num)
+{
+    Console.Write(index + " ");
+    index++;
+}*/
+
+Console.WriteLine("Введите трехзначное число");
+int number = Console.ReadLine();
+int n = 0;
+while (n < 4)
+{
+
 }
