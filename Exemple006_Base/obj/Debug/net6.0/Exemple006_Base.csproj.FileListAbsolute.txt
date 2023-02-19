@@ -1,0 +1,15 @@
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\bin\Debug\net6.0\Exemple006_Base.exe
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\bin\Debug\net6.0\Exemple006_Base.deps.json
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\bin\Debug\net6.0\Exemple006_Base.runtimeconfig.json
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\bin\Debug\net6.0\Exemple006_Base.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\bin\Debug\net6.0\Exemple006_Base.pdb
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.csproj.AssemblyReference.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.AssemblyInfoInputs.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.AssemblyInfo.cs
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\refint\Exemple006_Base.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.pdb
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\Exemple006_Base.genruntimeconfig.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple006_Base\obj\Debug\net6.0\ref\Exemple006_Base.dll
