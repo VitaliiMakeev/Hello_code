@@ -1,0 +1,15 @@
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\bin\Debug\net6.0\Example010_HomeWork.exe
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\bin\Debug\net6.0\Example010_HomeWork.deps.json
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\bin\Debug\net6.0\Example010_HomeWork.runtimeconfig.json
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\bin\Debug\net6.0\Example010_HomeWork.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\bin\Debug\net6.0\Example010_HomeWork.pdb
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.AssemblyInfoInputs.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.AssemblyInfo.cs
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\refint\Example010_HomeWork.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.pdb
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\Example010_HomeWork.genruntimeconfig.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Example010_HomeWork\obj\Debug\net6.0\ref\Example010_HomeWork.dll
