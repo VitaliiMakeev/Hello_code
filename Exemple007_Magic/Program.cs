@@ -60,10 +60,10 @@ while(index <= num)
     index++;
 }*/
 
-Console.WriteLine("Введите трехзначное число");
-int number = Console.ReadLine();
-int n = 0;
-while (n < 4)
-{
+// Console.WriteLine("Введите трехзначное число");
+// int number = Console.ReadLine();
+// int n = 0;
+// while (n < 4)
+// {
 
-}
+// }
