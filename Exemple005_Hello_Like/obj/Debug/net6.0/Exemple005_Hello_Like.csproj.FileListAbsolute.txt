@@ -1,0 +1,15 @@
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\bin\Debug\net6.0\Exemple005_Hello_Like.exe
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\bin\Debug\net6.0\Exemple005_Hello_Like.deps.json
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\bin\Debug\net6.0\Exemple005_Hello_Like.runtimeconfig.json
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\bin\Debug\net6.0\Exemple005_Hello_Like.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\bin\Debug\net6.0\Exemple005_Hello_Like.pdb
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.csproj.AssemblyReference.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.AssemblyInfoInputs.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.AssemblyInfo.cs
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.csproj.CoreCompileInputs.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\refint\Exemple005_Hello_Like.dll
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.pdb
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\Exemple005_Hello_Like.genruntimeconfig.cache
+C:\Users\Могучий Мастер\Desktop\Exemple\Exemple005_Hello_Like\obj\Debug\net6.0\ref\Exemple005_Hello_Like.dll
